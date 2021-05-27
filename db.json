@@ -1,0 +1,22 @@
+{
+    "karyawan":[
+        {
+            "id":0,
+            "name": "Alan Supratna",
+            "location": "Bandung",
+            "department": "Produksi"
+        },
+        {
+            "id":1,
+            "name": "Adrian",
+            "location": "Jakarta",
+            "department": "Produksi"
+        },
+        {
+            "id":2,
+            "name": "Raka Alam",
+            "location": "Surabaya",
+            "department": "Warehouse"
+        }
+    ]
+}
