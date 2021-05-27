@@ -17,6 +17,30 @@
             "name": "Raka Alam",
             "location": "Surabaya",
             "department": "Warehouse"
+        },
+        {
+            "id":3,
+            "name": "Raka Alam",
+            "location": "Surabaya",
+            "department": "Warehouse"
+        },
+        {
+            "id":4,
+            "name": "Raka Alam",
+            "location": "Surabaya",
+            "department": "Warehouse"
+        },
+        {
+            "id":5,
+            "name": "Raka Alam",
+            "location": "Surabaya",
+            "department": "Warehouse"
+        },
+        {
+            "id":6,
+            "name": "Raka Alam",
+            "location": "Surabaya",
+            "department": "Warehouse"
         }
     ]
 }
